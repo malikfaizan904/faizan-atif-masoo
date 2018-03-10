@@ -11,7 +11,7 @@
 </head>
 <body >
 	<div  class="container text-center"  >
-		<h1 style="font-size: 85px">Shakeel Khan</h1>
+		<h1 style="font-size: 85px">FAIZAN ATIF MASOOD</h1>
 		<h4 class="font-italic"><b>Adress:</b>Golra Sharif Islamabad<br><b>Tel</b>: 356-36562-265<br><b> Email:</b> 
         <a href="malikfaizan904@gmail.com">malikfaizan904@gmail.com</a><br>
         </h4>
